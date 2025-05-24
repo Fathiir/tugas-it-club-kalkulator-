@@ -1,6 +1,5 @@
 body {
-  background-image: url('/logoitclub.jpeg');
-  background-position: center;
+  background-color: #000;
 }
 
 {
@@ -68,4 +67,21 @@ button:hover{
   background-color: #01ff70;
   grid-row: span 3;
   color: #fff;
+}
+
+.logoit {
+  position: absolute;
+  top: 57%;
+  right: 73%;
+}
+.bonlap {
+  position: absolute;
+ top: 57%;
+ left: 73%;
+}
+
+video {
+  position: absolute;
+  top: 57%;
+  left: 27%;
 }
