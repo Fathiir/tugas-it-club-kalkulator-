@@ -1,5 +1,6 @@
 body {
-  background-color: #111827;
+  background-image: url('/logoitclub.jpeg');
+  background-position: center;
 }
 
 {
@@ -8,7 +9,7 @@ body {
 }
 
 .calculator {
-  background-color: #f2f2f2;
+  background-color: #111827;
   padding: 20px;
   max-width: 400px;
   margin: 0 auto;
@@ -19,7 +20,7 @@ body {
 }
 
 #result{
-  width: 100%;
+  width: 94%;
   padding: 10px;
   font-size: 24px;
   border: none;
